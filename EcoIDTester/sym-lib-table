@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "EcoIDTester")(type "KiCad")(uri "${KIPRJMOD}/EcoIDTester.kicad_sym")(options "")(descr ""))
+  (lib (name "arduino-library")(type "KiCad")(uri "${KIPRJMOD}/arduino-library.kicad_sym")(options "")(descr ""))
+)
